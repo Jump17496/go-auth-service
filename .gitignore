@@ -1,0 +1,31 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go-auth-service
+
+# Go workspace file
+go.work
+
+# Environment variables
+.env
+.env.local
+
+# Config files (keep config.yaml.example)
+config.yaml
+config.local.yaml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

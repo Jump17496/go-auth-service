@@ -1,0 +1,11 @@
+# Go Auth Service Configuration
+# Copy this file to config.yaml and update with your values
+
+# Database Configuration
+database_url: "postgres://postgres:postgres@localhost:5432/authdb?sslmode=disable"
+
+# JWT Secret Key (change this in production!)
+jwt_secret: "your-secret-key-change-in-production"
+
+# Server Port
+port: "8080"
