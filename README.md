@@ -471,13 +471,13 @@ go mod tidy
 
 ## 📄 License
 
-MIT License
+none
 
 ---
 
 ## 👨‍💻 Author
 
-Created with ❤️
+Created by Apiwat
 
 ---
 
